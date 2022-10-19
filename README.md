@@ -1,2 +1,1 @@
-# InfoBoi
-Hello, I am GamerBoi! (also known as betaboi)! I code in github and do other stuff. Discord: blocky amogus guy#2474
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=admin-teamproworld&repo=infoboi)](https://github.com/admin-teamproworld/infoboi)
